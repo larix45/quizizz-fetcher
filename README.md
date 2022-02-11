@@ -5,5 +5,6 @@
 ```js
 fetch("https://raw.githubusercontent.com/larix45/quizizz-fetcher/main/ver2.js")
 .then((res) => res.text()
-.then((t) => eval(t)))```
+.then((t) => eval(t)))
+```
 * enjoy :)
