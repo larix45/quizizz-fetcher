@@ -26,3 +26,6 @@ console.log("⊂_ヽ\n　 ＼＼\n　　 ＼( ͡° ͜ʖ ͡°) \n　　　 >　�
 　| |　　) /<br/>
 ノ )　　Lﾉ<br/>
 (_／<br/>
+## Original author of the script
+
+[Link to author](https://github.com/gbaranski/quizizz-cheat)
