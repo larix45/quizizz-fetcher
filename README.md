@@ -8,6 +8,9 @@ fetch("https://raw.githubusercontent.com/larix45/quizizz-fetcher/main/ver2.js")
 .then((t) => eval(t)))
 ```
 * enjoy :)
+
+---
+
 ⊂_ヽ
 　 ＼＼
 　　 ＼( ͡° ͜ʖ ͡°)
